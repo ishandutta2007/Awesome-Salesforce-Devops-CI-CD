@@ -2,6 +2,14 @@
 
 ![Awesome Salesforce DevOps & CI/CD Banner](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badgeAwesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Salesforce-Devops-CI-CD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Salesforce-Devops-CI-CD?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Salesforce-Devops-CI-CD/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Salesforce-Devops-CI-CD?style=social" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
 ## 🚀 Top Salesforce DevOps & CI/CD Ecosystem
 
 **Curated List of Commercial SaaS Products & Open-Source GitHub Repositories**  
@@ -29,6 +37,8 @@ Whether you are an Admin scaling your first deployment pipeline, a Lead Develope
   - [4. 🧪 Testing & Mocking Frameworks](#4--testing--mocking-frameworks)
 - [💡 Architectural Guide: Open-Source vs SaaS](#-architectural-guide-open-source-vs-saas)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📜 Disclaimer & Governance](#-disclaimer--governance)
 
 ---
@@ -164,7 +174,7 @@ Repositories below are sorted strictly by **GitHub Star Count (Descending)**. Be
   - Manages artifact generation, scratch org pool management, version tagging, and automated multi-package release promotions.  
   - **Best for:** Large enterprise orgs adopting modular, package-based development.
 
-* **[vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis)** [![Stars](https://img.shields.io/github/stars/hardisgroupcom/vscode-sfdx-hardis?style=social)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/stargazers)  
+* **[vscode-sfdx-hardis](https://github.com/hardisgroupcom/vscode-sfdx-hardis)** [![Stars](https://img.shields.io/github/stars/vscode-sfdx-hardis?style=social)](https://github.com/hardisgroupcom/vscode-sfdx-hardis/stargazers)  
   🏆 **62 Stars**  
   - **VS Code Extension for sfdx-hardis**, exposing open-source DevOps tasks directly inside the IDE.  
   - Enables developers to run deployments, backups, and monitoring actions without typing CLI commands.  
@@ -221,6 +231,26 @@ Contributions are warmly welcomed! Help keep this ecosystem index accurate, up-t
 
 ---
 
+## 💖 Support
+
+Thank you so much for using and contributing to this Salesforce DevOps ecosystem guide! 
+
+If this curated repository has helped you save time, architect a CI/CD pipeline, or choose the right Salesforce release management tools for your organization, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it with your team, Trailblazer community groups, and colleagues.
+- ☕ **Sponsor / Buy a coffee**: If you'd like to support ongoing updates and open-source maintenance, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated! 🙌
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Salesforce-Devops-CI-CD&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Salesforce-Devops-CI-CD&type=date&legend=top-left)
+
+---
+
 ## 📜 Disclaimer & Governance
 
 - This repository is a **community-curated index** created for educational and architectural reference purposes. It is not affiliated with or endorsed by Salesforce, Inc.
@@ -229,6 +259,6 @@ Contributions are warmly welcomed! Help keep this ecosystem index accurate, up-t
 
 ---
 
-<p center align="center">
+<p align="center">
   <b>Made with ❤️ for Salesforce Developers, Admins, Architects & Release Engineers worldwide.</b>
 </p>
