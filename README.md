@@ -69,7 +69,7 @@ The table below lists top commercial SaaS Salesforce DevOps solutions, sorted by
 
 The open-source Salesforce ecosystem provides powerful building blocks for custom CI/CD pipelines, package generation, static code analysis, and test data seeding.
 
-Repositories below are sorted strictly by **GitHub Star Count (Descending)**. Beside each project name is a live social star badge linking directly to the repo's **Stargazers** page.
+Repositories below are sorted strictly by **GitHub Stars_Count (Descending)**. Beside each project name is a live social Stars_Badge linking directly to the repo's **Stargazers** page.
 
 ---
 
